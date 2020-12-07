@@ -1,0 +1,139 @@
+{
+  "cart" : {
+    "o8qX11VQSCNOQiyAsB5A9cVYqEw1" : {
+      "item1" : {
+        "item_image" : "mcpollo",
+        "item_name" : "McPollo",
+        "item_price" : "4",
+        "item_qty" : 1
+      }
+    }
+  },
+  "category" : {
+    "cat01" : "Burger",
+    "cat02" : "Drinks"
+  },
+  "featured" : {
+    "item1" : "slide_1",
+    "item2" : "slide_2"
+  },
+  "menu" : {
+    "item1" : {
+      "available" : true,
+      "category" : "cat01",
+      "description" : "item1 description",
+      "image" : "mcpollo",
+      "name" : "McPollo",
+      "price" : "4",
+      "stock" : 100
+    },
+    "item2" : {
+      "available" : true,
+      "category" : "cat01",
+      "description" : "item2 description",
+      "image" : "wrap_pollo_verduras",
+      "name" : "Wrap de pollo con verduras",
+      "price" : 3,
+      "stock" : 100
+    },
+    "item3" : {
+      "available" : true,
+      "category" : "cat02",
+      "description" : "item3 description",
+      "image" : "cocacola",
+      "name" : "Coca Cola",
+      "price" : 2,
+      "stock" : 100
+    },
+    "item4" : {
+      "available" : true,
+      "category" : "cat02",
+      "description" : "item4 description",
+      "image" : "cocacola0",
+      "name" : "Coca Cola 0",
+      "price" : 2,
+      "stock" : 100
+    },
+    "item5" : {
+      "available" : true,
+      "category" : "cat01",
+      "description" : "item5 description",
+      "image" : "big_mac",
+      "name" : "Big Mac",
+      "price" : 5,
+      "stock" : 100
+    },
+    "item6" : {
+      "available" : true,
+      "category" : "cat02",
+      "description" : "item6 description",
+      "image" : "Smoothie",
+      "name" : "Smoothie de fresa",
+      "price" : 4,
+      "stock" : 100
+    },
+    "item8" : {
+      "available" : true,
+      "category" : "cat01",
+      "description" : "item8 description",
+      "image" : "wrap_vegetal",
+      "name" : "Wrap vegetal",
+      "price" : 4,
+      "stock" : 100
+    }
+  },
+  "orders" : {
+    "-MNVR9XDolwaCrC8OgYE" : {
+      "address_id" : "-MNVR8uDhWSWaA3ZSxFk",
+      "item_qty" : 1,
+      "payment_id" : "COD",
+      "product_id" : "item4",
+      "product_image" : "cocacola0",
+      "product_name" : "Coca Cola 0",
+      "product_price" : 2,
+      "status" : "En cola",
+      "user_id" : "WR1HabMtMwgdGvZ7YDQmEhvL0sY2",
+      "user_name" : "victorlopezasd"
+    },
+    "-MNVR9XE_dgXIgHLU4NN" : {
+      "address_id" : "-MNVR8uDhWSWaA3ZSxFk",
+      "item_qty" : 1,
+      "payment_id" : "COD",
+      "product_id" : "item6",
+      "product_image" : "Smoothie",
+      "product_name" : "Smoothie de fresa",
+      "product_price" : 4,
+      "status" : "En cola",
+      "user_id" : "WR1HabMtMwgdGvZ7YDQmEhvL0sY2",
+      "user_name" : "victorlopezasd"
+    },
+    "-MNXvKJe9ggZ5j8HKOE7" : {
+      "address_id" : "-MNXvHkrb2Agwqw0McxL",
+      "item_qty" : 3,
+      "payment_id" : "COD",
+      "product_id" : "item1",
+      "product_image" : "mcpollo",
+      "product_name" : "McPollo",
+      "product_price" : "4",
+      "status" : "En cola",
+      "user_id" : "WR1HabMtMwgdGvZ7YDQmEhvL0sY2",
+      "user_name" : "victorlopezasd"
+    }
+  },
+  "users" : {
+    "s0mZZuqoxEa38FGGJShgcN1v6cq2" : {
+      "address" : {
+        "-MNwxOvq8UOWKmfrl6wb" : {
+          "address" : "direccion1",
+          "nickname" : "prueba",
+          "phone" : 1234,
+          "pin" : 1234
+        }
+      },
+      "email" : "victor123@gmail.com",
+      "name" : "Víctor",
+      "password" : "victor123",
+      "telephone" : "999999999"
+    }
+  }
+}
